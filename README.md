@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Squishedmac
+- 👀 I’m interested in ... Python,C and C++, Tensorflow 2.0 
+- 🌱 I’m currently learning ...Flask and AWS
+- 💞️ I’m looking to collaborate on ... A computer vision project
+- 📫 How to reach me ... just mail me at madhavunni1@gmail.com
